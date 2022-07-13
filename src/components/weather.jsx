@@ -119,16 +119,16 @@ export const Weather = ()=>{
               :<h2>search location</h2>}  
                 <div className='map'>
          
-         <iframe 
+//          <iframe 
              
-             id="gmap_canvas" src={`https://maps.google.com/maps?q=${val}&t=&z=13&ie=UTF8&iwloc=&output=embed`}
-             height='300px'
-             width='300px'
-             frameborder="0"
-             scrolling="no"
-              marginheight="0" 
-              marginwidth="0" >
-            </iframe>
+//              id="gmap_canvas" src={`https://maps.google.com/maps?q=${val}&t=&z=13&ie=UTF8&iwloc=&output=embed`}
+//              height='300px'
+//              width='300px'
+//              frameborder="0"
+//              scrolling="no"
+//               marginheight="0" 
+//               marginwidth="0" >
+//             </iframe>
         
        </div> 
 
